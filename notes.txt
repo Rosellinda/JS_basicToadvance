@@ -1,0 +1,12 @@
+What is JavaScript?
+1. Client based programming language. - No need a compiler
+2. Runs on any modern browsers.
+3. Now it can run on a server side using node.js
+4. Conforms on ECMAScript
+5. Multi-paradigm
+
+Advantage and why learn JavaScript?
+1. It is the program language of the browsers
+2. Very in demand on the developer job specially if you know JS Frameworks like Vue.js and React.js
+3. Can build mobile applications using React Native
+4. Can create a desktop application using electron.js
